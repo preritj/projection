@@ -2,7 +2,7 @@
 
 ### Instructions
 
-* Download the project to the `src` of your catkin workstation. For example,
+* Download the project to the `src` of your catkin workspace. For example,
 ```
 cd ~/catkin_ws/src/
 git clone https://github.com/preritj/projection.git
