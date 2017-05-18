@@ -1,7 +1,0 @@
-digraph G {
-"gps_antenna_front" -> "obs_centroid"[label="Broadcaster: /base_link_to_obs1_tf_broadcaster\nAverage rate: 9.886 Hz\nMost recent transform: 1494946673.922 ( 0.097 sec old)\nBuffer length: 4.855 sec\n"];
-edge [style=invis];
- subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
-"Recorded at time: 1494946674.019"[ shape=plaintext ] ;
- }->"gps_antenna_front";
-}
